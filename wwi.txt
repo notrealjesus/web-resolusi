@@ -1,0 +1,4 @@
+Membuat website untuk WWI
+- melakukan beberapa perubahan pada header dan footer
+- melakukan beberapa penyesuaian untuk tampilan UI 
+- mempresentasikan hasil nya ke pa bayu 
