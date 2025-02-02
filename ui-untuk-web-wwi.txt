@@ -1,5 +1,7 @@
 RENCANA UI WEBSITE WWI
 
-- membuat tampilan lebih interaktif
+- membuat tampilan lebih interaktif 
+  * mencari referensi agar terlihat tidak sama dengan sebuah website 
+  *(amati tiru modifikasi)
 - membuat taman wisata lebih terekspos
 - membuat kontak lebih aktif
