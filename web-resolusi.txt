@@ -1,8 +1,9 @@
 This Human Resolusi
 - Konsisten belajar website development
-- HTML sudah
 - Ngulik CSS
 - Bismillah Javascript
 - Belajar React
 - Belajar PHP 
 - Jadi Front-End Developer
+- Membuat website untuk nanti bekal KKN
+- Membuat website untuk PT WWI 
