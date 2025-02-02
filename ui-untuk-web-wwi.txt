@@ -3,6 +3,9 @@ RENCANA UI WEBSITE WWI
 - membuat tampilan lebih interaktif 
   * mencari referensi agar terlihat tidak sama dengan sebuah website 
   *(amati tiru modifikasi)
+    > pelajari REACT 
 - membuat taman wisata lebih terekspos
 - membuat kontak lebih aktif
 - jangan meng hire ui designer
+- cari saja referensi website nya 
+  > belajar bootstrap aja dasar 
