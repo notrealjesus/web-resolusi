@@ -8,3 +8,4 @@ RENCANA UI WEBSITE WWI
 - membuat kontak lebih aktif
 - jangan meng hire ui designer
 - cari saja referensi website nya 
+  > belajar bootstrap aja dasar 
