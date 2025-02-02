@@ -3,6 +3,8 @@ RENCANA UI WEBSITE WWI
 - membuat tampilan lebih interaktif 
   * mencari referensi agar terlihat tidak sama dengan sebuah website 
   *(amati tiru modifikasi)
+    > pelajari PHP
+    > Belajar Angular
 - membuat taman wisata lebih terekspos
 - membuat kontak lebih aktif
-- jangan meng hire ui designer
+- Belajar Bootsrap lebih mantep
