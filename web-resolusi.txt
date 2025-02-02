@@ -3,3 +3,6 @@ This Human Resolusi
 - HTML sudah
 - Ngulik CSS
 - Bismillah Javascript
+- Belajar React
+- Belajar PHP 
+- Jadi Front-End Developer
